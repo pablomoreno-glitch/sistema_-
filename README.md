@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npl install react```
+
+Sistema de registro 2
